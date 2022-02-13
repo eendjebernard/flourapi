@@ -1,0 +1,5 @@
+name: FlourAPI
+version: '${project.version}'
+main: eu.eendjebernard.flourapi.FlourMain
+api-version: 1.18
+authors: [ EendjeBernard ]
